@@ -46,8 +46,8 @@ def french_to_english(french_text):
 
 # TESTS
 #e_input = 'Hello'
-#f_out   = englishToFrench( e_input )
+#f_out   = english_to_french( e_input )
 #print( f_out.get('translations')[0].get('translation') )
 #f_in    = 'Bonjour'
-#e_out   = frenchToEnglish ( f_in )
+#e_out   = french_to_english ( f_in )
 #print( e_out.get('translations')[0].get('translation') )
